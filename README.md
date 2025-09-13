@@ -28,8 +28,10 @@ This plugin blocks **ALL** chat messages from penalized players, including:
 
 ## 🔧 Requirements
 
-- **CounterStrikeSharp** (latest version)
-- **CS2-SimpleAdmin** plugin installed and configured
+- **CounterStrikeSharp**https://github.com/roflmuffin/CounterStrikeSharp
+ (latest version)
+- **CS2-SimpleAdmin**https://github.com/daffyyyy/CS2-SimpleAdmin
+ plugin installed and configured
 - **MySQL/MariaDB** database (same as SimpleAdmin uses)
 
 ## 📦 Installation
