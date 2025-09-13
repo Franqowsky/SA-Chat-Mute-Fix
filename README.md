@@ -165,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Issues**: [GitHub Issues](https://github.com/Franqowsky/SA-Chat-Mute-Fix/issues)
-- **Discord**: [Your Discord Server](https://discord.gg/77Hmw23YfW)
+- **Discord**: [Our Discord Server](https://discord.gg/77Hmw23YfW)
 - **Steam**: 
 
 ---
