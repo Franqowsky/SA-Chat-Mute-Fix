@@ -1,3 +1,5 @@
+NEW-->https://github.com/Franqowsky/SA-Chat-Mute-Fix-v2
+
 # SA Chat Mute Fix
 
 A Counter-Strike 2 plugin that fixes the "!" and "/" prefix bypass in CS2-SimpleAdmin's GAG/MUTE/SILENCE punishments.
